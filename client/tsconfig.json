@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "outDir": "./dist/",
+    "types": ["excalibur"]
+  },
+  "exclude": ["node_modules"]
+}
